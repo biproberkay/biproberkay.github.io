@@ -1,3 +1,6 @@
+layout: page
+title: "ABOUT"
+permalink: https://biproberkay.github.io/about
 # biproberkay.github.io
 <img src="https://avatars.githubusercontent.com/u/58739068?v=4" alt="img" style="zoom:55%;" />
 
